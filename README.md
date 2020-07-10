@@ -1,2 +1,2 @@
 # Spreadsheet
-Generalized Spreadsheet reader / writer. Works with .xlsx, .xls, .csv files
+Generalized Spreadsheet reader and writer. Works with .xlsx, .xls, .csv files
